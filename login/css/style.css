@@ -1,0 +1,49 @@
+<style>
+h1{
+     color: red;
+ }
+
+ label{
+     color: blue;
+ }
+
+ button{
+     color:yellowgreen
+ }
+
+ a{
+     color:aqua;
+     background-color: blue;
+ }
+
+ #userlabel{
+     font-size: 30px;
+     background-color: pink;
+ }
+
+ #passlabel{
+     font-size: 30px;
+     background-color: pink;
+ } 
+
+ .text-design{
+     color: purple;
+     background-color: aqua;
+ }
+
+ .link-style:link{
+    color: aliceblue;
+     background-color: black;
+ }
+
+ .link-style:hover{
+    color: pink;
+     background-color: brown;
+ }
+
+ .link-style:active{
+    color: yellow;
+    background-color: orange;
+ }
+
+</style>
